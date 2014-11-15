@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="I've been having problems with Eclipse (Juno) when launching an application for android. I keep getting issues with the SDK not parsing and the application not launching. Any help would be greatly appreciated!! "
+        android:id="@+id/textView"
+        />
+
+</LinearLayout>
